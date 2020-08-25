@@ -5,3 +5,7 @@ Flask Portfolio App for students @ Clever Programmer deployed from Cloud 9
 
 ## LIVE PORTFOLIO APP...
 https://my-portfolio-with-flask.herokuapp.com/
+
+25.8.2020:
+- Added link to history of Senzala in UK
+- Added link to Capoeira Tampere
